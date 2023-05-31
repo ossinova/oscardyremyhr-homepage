@@ -1,10 +1,10 @@
-# Takuya's Homepage
+# Oscar's Homepage
 
-[https://www.craftz.dog/](https://www.craftz.dog/)
+[https://www.oscardyremyhr.me/](https://www.oscardyremyhr.me/)
 
 ## Tutorial
 
-Watch how I built this website on YouTube:
+Watch how thisthis website was built on YouTube (- by DevAsLife):
 
 [![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
 
